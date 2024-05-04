@@ -42,4 +42,4 @@ Display the amount of money saved from the discount.
 5. Enter your selections according to the prompts to complete the shopping process.
 6. View the final output for the total cost and other details.
 
-You should be able to run the program and simulate a shopping experience for mobile devices, incorporating the various options and functionalities described in the tasks.
+Runing the program will simulate a shopping experience for mobile devices, incorporating the various options and functionalities described in the tasks.
