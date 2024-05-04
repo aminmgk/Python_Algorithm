@@ -10,7 +10,7 @@ Store item codes, descriptions, and prices in appropriate data structures.
 
 ## Features
 ### Task 1: Setting up the System
-This task creates the foundational structure of the shop, allowing users to:
+Creating the foundational structure of the shop, allowing users to:
 
 Select a specific phone or tablet.
 Choose whether a phone is SIM Free or Pay As You Go.
@@ -20,7 +20,7 @@ Calculate the total price for the transaction.
 Output a list of the items purchased and the total price.
 
 ### Task 2: Ordering Multiple Mobile Devices
-This task extends the initial setup by:
+Extending the initial setup by:
 
 Offering the customer the option to purchase additional mobile devices.
 Performing the same steps as Task 1 for each additional mobile device.
@@ -28,16 +28,18 @@ Calculating a running total for the customer.
 Providing a final output of the total cost once no further devices are required.
 
 ### Task 3: Offering Discounts
-This task adds a discount feature:
+Adding a discount feature:
 
 Apply a 10% discount on the price of each additional phone or tablet purchased.
 Output the new total the customer will need to pay.
 Display the amount of money saved from the discount.
 
-### How to Use
-Clone the repository to your local machine.
-Run the Python script to start the program.
-Follow the on-screen prompts to complete the required tasks.
-Choose a task (Task 1, Task 2, or Task 3) based on the desired functionality.
-Enter your selections according to the prompts to complete the shopping process.
-View the final output for the total cost and other details.
+### Running the Program
+1. Clone the repository to your local machine.
+2. Run the Python script to start the program.
+3. Follow the on-screen prompts to complete the required tasks.
+4. Choose a task (Task 1, Task 2, or Task 3) based on the desired functionality.
+5. Enter your selections according to the prompts to complete the shopping process.
+6. View the final output for the total cost and other details.
+
+You should be able to run the program and simulate a shopping experience for mobile devices, incorporating the various options and functionalities described in the tasks.
